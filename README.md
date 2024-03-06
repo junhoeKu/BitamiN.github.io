@@ -13,7 +13,7 @@ BitamiN 12기의 활동을 정리하고 공유하는 저장소입니다. \
 ## 📚 학습 내용
 ### 2023년 2학기
 - **머신러닝**: 머신러닝 기초부터 추천시스템, 텍스트 분석까지 머신러닝 전반에 대한 내용 학습
-  - [ ] 학습 자료 링크
+  - [https://github.com/junhoeKu/BitamiN.github.io/tree/main/2023_2%ED%95%99%EA%B8%B0_BitamiN] 학습 자료 링크
 - **NLP 스터디**: 설명
   - [(https://www.notion.so/NLP-462843da1945457184ca9768fe00d30c)] 학습 자료 링크
   - [(https://github.com/rickiepark/nlp-with-pytorch/tree/main)] 실습 코드
