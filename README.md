@@ -16,7 +16,7 @@ BitamiN 12기의 활동을 정리하고 공유하는 저장소입니다.
   - [ ] 학습 자료 링크
 - **NLP 스터디**: 설명
   - [ ] 학습 자료 링크
-  - [ ](https://github.com/rickiepark/nlp-with-pytorch/tree/main) 실습 코드
+  - [(https://github.com/rickiepark/nlp-with-pytorch/tree/main)](https://github.com/rickiepark/nlp-with-pytorch/tree/main) 실습 코드
 
 ### 2024년 1학기
 - **주제 1**: 설명
