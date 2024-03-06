@@ -1,5 +1,3 @@
-![NLP스터디_단체사진](https://github.com/junhoeKu/BitamiN.github.io/assets/144355794/0def4781-6991-419e-8115-4a513565e8b4)# BitamiN 12기 활동 정리
-
 ## 📌 소개
 BitamiN 12기의 활동을 정리하고 공유하는 저장소입니다. \
 2023년 2학기부터 2024년 1학기까지 BitamiN 동아리에서 배우고 수행한 코드들과 프로젝트들을 담고 있습니다.
