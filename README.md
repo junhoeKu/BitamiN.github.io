@@ -44,7 +44,8 @@ BitamiN 12기의 활동을 정리하고 공유하는 저장소입니다. \
   - [프로젝트 링크](#)
 
 ## ✨ 활동 사진 및 동영상
-- 활동 사진 [링크](#)
+- 활동 사진
+- **NLP 스터디**
 ![NLP스터디_단체사진](https://github.com/junhoeKu/BitamiN.github.io/assets/144355794/f1eb771e-d7bf-4013-8bbf-740fec0c277e)
 - 동영상 [링크](#)
 
