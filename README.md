@@ -32,7 +32,7 @@ BitamiN 12기의 활동을 정리하고 공유하는 저장소입니다. \
 - **NLP 스터디**
 ![NLP스터디_단체사진](https://github.com/junhoeKu/BitamiN.github.io/assets/144355794/f1eb771e-d7bf-4013-8bbf-740fec0c277e)
 - **제주어 프로젝트**
-![제주어 프로젝트_단체사진](단체사진 폴더/제주어프로젝트_단체사진.jpg)
+![제주어 프로젝트_단체사진](https://github.com/junhoeKu/BitamiN.github.io/assets/144355794/791b2a76-6a4d-46cd-8c73-0fe466b73c62)
 
 ## 📝 블로그 및 작성 글
 - [블로그 포스트 1](#)
