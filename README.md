@@ -34,19 +34,10 @@ BitamiN 12기의 활동을 정리하고 공유하는 저장소입니다. \
 - **제주어 프로젝트**
 ![제주어 프로젝트_단체사진](https://github.com/junhoeKu/BitamiN.github.io/assets/144355794/791b2a76-6a4d-46cd-8c73-0fe466b73c62)
 
-## 📝 블로그 및 작성 글
-- [블로그 포스트 1](#)
-- [블로그 포스트 2](#)
-
-## 🤝 기여 방법
-이 레포지토리에 기여하고 싶으신 분은 다음과 같은 방법으로 기여할 수 있습니다.
-1. Issue를 등록하여 의견을 공유해주세요.
-2. Pull Request를 통해 직접 내용을 추가해주세요. 기여하기 전에 [CONTRIBUTING.md](CONTRIBUTING.md)를 확인해주세요.
-
 ## 📩 연락처
-- 담당자: [이름](메일주소)
-- 동아리 이메일: bitamin@example.com
+- 이름 : 구준회
+- 이메일 : kujoon13413@gmail.com
 
-## 🔗 유용한 링크
-- 동아리 홈페이지: [링크](#)
-- 동아리 소셜 미디어: [링크](#)
+## 🔗 링크
+- 동아리 홈페이지: [링크](https://cafe.naver.com/bitamin123)
+- 동아리 소셜 미디어: [링크](https://www.instagram.com/bitamin_official)
